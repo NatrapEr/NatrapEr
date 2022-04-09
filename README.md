@@ -38,6 +38,9 @@
 ![opencart](https://img.shields.io/badge/-opencart-000000?style=for-the-badge&logo=&logoColor=FFFFFF)
 ![tilda](https://img.shields.io/badge/-tilda-000000?style=for-the-badge&logo=&logoColor=FFFFFF)
 
-Follow Me
+### Follow Me 
+
+[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK&logoColor=0078FF)](https://vk.com/udontknowhim)
+[![insta](https://img.shields.io/badge/-insta-000000?style=for-the-badge&logo=instagram&logoColor=C0357F)](https://www.instagram.com/dublucky4u/)
 
 I’m currently learning 
