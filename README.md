@@ -22,10 +22,8 @@
 ![vue.js](https://img.shields.io/badge/-vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![react](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![next.js](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&logoColor=4183C4)
-![cakephp](https://img.shields.io/badge/-cakephp-000000?style=for-the-badge&logo=cakephp&logoColor=DA3B44)
 ![laravel](https://img.shields.io/badge/-laravel-000000?style=for-the-badge&logo=laravel&logoColor=EF3B2D)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=#840AFA)
-![bulma](https://img.shields.io/badge/-bulma-000000?style=for-the-badge&logo=bulma&logoColor=00D1B2)
 #### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=007D7D)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=0B944E)
@@ -33,8 +31,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
 #### CMS
 ![wordpress](https://img.shields.io/badge/-wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)
-![joomla](https://img.shields.io/badge/-joomla-000000?style=for-the-badge&logo=joomla&logoColor=FFFFFF)
-![opencart](https://img.shields.io/badge/-opencart-000000?style=for-the-badge&logo=&logoColor=FFFFFF)
 ![tilda](https://img.shields.io/badge/-tilda-000000?style=for-the-badge&logo=&logoColor=FFFFFF)
 
 ### Follow Me 
