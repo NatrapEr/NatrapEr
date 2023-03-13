@@ -4,7 +4,6 @@
 ### Languages and Tools
 #### &nbsp;
 #### Languages
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C&logoColor=004482)
 ![C++](https://img.shields.io/badge/-c%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=004283)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=306998)
 ![typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
